@@ -1,6 +1,5 @@
 tensorflow
 pillow
 numpy
-opencv
 pandas
 

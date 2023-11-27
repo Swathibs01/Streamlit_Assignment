@@ -1,8 +1,6 @@
-Streamlit
-Pickle
 tensorflow
 pillow
 numpy
 opencv
 pandas
-BackPropogation
+

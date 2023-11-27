@@ -1,2 +1,4 @@
 tensorflow
 pillow
+scikit-learn
+numpy
